@@ -1,3 +1,9 @@
+# Project Two - React.js
+
+## Manchester City
+
+Example is hosted on [Netlify](https://zealous-pike-15bde6.netlify.com) 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
